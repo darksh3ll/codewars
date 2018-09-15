@@ -1,1 +1,1 @@
-**ExerciceS Code Wars
+**Exercices Code Wars
